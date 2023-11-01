@@ -9,13 +9,17 @@ This project focuses on analyzing product sales data with the goal of deriving a
 1. [Project Introduction](#project-introduction)
 2. [Data Preprocessing](#data-preprocessing)
 3. [Data Visualization using IBM Cognos](#data-visualization-using-ibm-cognos)
-4. [Predicting Future Sales and Revenue](#predicting-future-sales-and-revenue)
-5. [Replication Instructions](#replication-instructions)
-6. [Dependencies](#dependencies)
-7. [Installation](#installation)
-8. [Machine Learning Code](#machine-learning-code)
-9.  [Data Preprocessing](data-preprocessing)
-10.  [Data Visualisation IBM Cognos](data-visualisation-ibm-cognos)
+4. [Finding Top Selling Product](#finding-top-selling-product)
+4. [Customer Preferences](#customer-preferences)
+5. [Sales Trends](#sales-trends)
+6. [Sales on 31st](#sales-on-31st)
+7. [Predicting Future Sales and Revenue](#predicting-future-sales-and-revenue)
+8. [Replication Instructions](#replication-instructions)
+9. [Dependencies](#dependencies)
+10. [Installation](#installation)
+11. [Machine Learning Code](#machine-learning-code)
+12.  [Data Preprocessing](data-preprocessing)
+13.  [Data Visualisation IBM Cognos](data-visualisation-ibm-cognos)
    
 ## Project Introduction
 
@@ -32,6 +36,22 @@ Phase 4 focuses on creating interactive dashboards and reports using IBM Cognos.
 ## Predicting Future Sales and Revenue
 
 The project includes forecasting future sales and revenue trends. This is done using historical data and forecasting methods available in IBM Cognos Analytics. The goal is to provide insights into expected sales and revenue for the upcoming year, allowing for proactive planning and decision-making.
+
+## Finding Top Selling Product
+
+An analysis is conducted to determine the top-selling product among the available options. This insight is crucial for product focus and marketing strategies.
+
+## Customer Preferences
+
+To understand customer preferences, the project examines monthly sales trends and customer inclinations. The insights derived help in tailoring product offerings and marketing campaigns.
+
+## Sales Trends
+
+This section focuses on identifying sales trends over time, including seasonal patterns and peak sales periods. The analysis helps in planning marketing activities and inventory management.
+
+## Sales on 31st
+
+Estimating sales on December 31st of each year is essential for planning and decision-making, especially when retail centers are closed. Multiple methods are considered to provide an accurate estimate of sales for this date.
 
 
 ## Dependencies
