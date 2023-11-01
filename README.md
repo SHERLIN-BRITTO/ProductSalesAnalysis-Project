@@ -11,9 +11,12 @@ This project focuses on analyzing product sales data with the goal of deriving a
 3. [Data Visualization using IBM Cognos](#data-visualization-using-ibm-cognos)
 4. [Predicting Future Sales and Revenue](#predicting-future-sales-and-revenue)
 5. [Replication Instructions](#replication-instructions)
-6. [Contributors](#contributors)
-7. [License](#license)
-
+6. [Dependencies](#dependencies)
+7. [Installation](#installation)
+8. [Machine Learning Code](#machine-learning-code)
+9.  [Data Preprocessing](data-preprocessing)
+10.  [Data Visualisation IBM Cognos](data-visualisation-ibm-cognos)
+   
 ## Project Introduction
 
 The project aims to provide a comprehensive analysis of product sales data to identify trends, customer preferences, and actionable insights for business improvement. It involves data preprocessing, visualization, and forecasting.
@@ -40,21 +43,11 @@ Before running the code, make sure you have the following dependencies installed
 - IBM Cognos Analytics (for data visualization)
 - Required Python libraries (pandas, dateutil, etc., specify versions)
 
+## Installation
+
 You can install the required Python libraries using pip by running the following command:
 
 pip install -r requirements.txt
-## Project Structure
-project-root/
-    ├── data/
-    │   ├── statsfinal.csv
-    ├── notebooks/
-    │   ├── DAC_Phase3_Code.ipynb
-    │   ├── Other notebooks (if any)
-    ├── results/
-    │   ├── Preprocessed_Data.csv
-    │   ├── Other result files (if any)
-    ├── README.md
-    ├── requirements.txt
 
 
 
@@ -66,7 +59,7 @@ Clone the GitHub repository:
 git clone https://github.com/SHERLIN-BRITTO/ProductSalesAnalysis-Project 
 cd ProductSalesAnalysis-Project
 ## Machine Learning Code
-Access the Jupyter Notebook file, "DAC_Phase2_Code.ipynb," in the folder for data preprocessing and initial analysis.
+Access the Jupyter Notebook file, "DAC_Phase3_Code.ipynb," in the folder for data preprocessing and initial analysis.
 
 Execute the cells in the Jupyter Notebook to replicate the analysis.
 
@@ -77,7 +70,7 @@ Access the Jupyter Notebook file, "DAC_Phase3_Code.ipynb," in the folder for dat
 
 Execute the cells in the Jupyter Notebook to replicate the analysis.
 
-## Data Visualization using IBM Cognos:
+## Data Visualisation IBM Cognos:
 To replicate the analysis and generate visualizations using IBM Cognos:
 
 1.Obtain access to IBM Cognos Analytics.
