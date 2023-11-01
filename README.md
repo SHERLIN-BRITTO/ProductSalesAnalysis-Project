@@ -30,7 +30,6 @@ Before running the code, make sure you have the following dependencies installed
 
 You can install the required Python libraries using pip by running the following command:
 
-```bash
 pip install -r requirements.txt
 ## Project Structure
 
