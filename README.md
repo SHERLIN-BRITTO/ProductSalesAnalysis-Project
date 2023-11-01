@@ -69,11 +69,11 @@ Execute the cells in the Jupyter Notebook to replicate the analysis.
 ## Data Visualization using IBM Cognos:
 To replicate the analysis and generate visualizations using IBM Cognos:
 
-•	Obtain access to IBM Cognos Analytics.
-•	Import the preprocessed dataset used in the project.
-•	Create reports and dashboards using IBM Cognos.
-•	Follow the visualizations and insights provided in the project to analyze your data.
-•	Example outputs and further details can be found in the GitHub repository and the earlier phases of the project documentation.It is included in this document also
+Obtain access to IBM Cognos Analytics.
+Import the preprocessed dataset used in the project.
+Create reports and dashboards using IBM Cognos.
+Follow the visualizations and insights provided in the project to analyze your data.
+Example outputs and further details can be found in the GitHub repository and the earlier phases of the project documentation.It is included in this document also
 
 
 
