@@ -46,7 +46,8 @@ project-root/
     │   ├── ProductSalesAnalysisDashboard.pdf
     ├── README.md
     ├── requirements.txt
-# How to Run the Code
+
+## How to Run the Code
 Follow these steps to run the code:
 Clone the GitHub repository:
 
