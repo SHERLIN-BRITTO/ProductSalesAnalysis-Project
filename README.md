@@ -9,17 +9,17 @@ This project focuses on analyzing product sales data with the goal of deriving a
 1. [Project Introduction](#project-introduction)
 2. [Data Preprocessing](#data-preprocessing)
 3. [Data Visualization using IBM Cognos](#data-visualization-using-ibm-cognos)
-4. [Finding Top Selling Product](#finding-top-selling-product)
-4. [Customer Preferences](#customer-preferences)
-5. [Sales Trends](#sales-trends)
-6. [Sales on 31st](#sales-on-31st)
-7. [Predicting Future Sales and Revenue](#predicting-future-sales-and-revenue)
-8. [Replication Instructions](#replication-instructions)
+4. [Predicting Future Sales and Revenue](#predicting-future-sales-and-revenue)
+5. [Finding Top Selling Product](#finding-top-selling-product)
+6. [Customer Preferences](#customer-preferences)
+7. [Sales Trends](#sales-trends)
+8. [Sales on 31st](#sales-on-31st)
 9. [Dependencies](#dependencies)
 10. [Installation](#installation)
 11. [Machine Learning Code](#machine-learning-code)
 12.  [Data Preprocessing](data-preprocessing)
 13.  [Data Visualisation IBM Cognos](data-visualisation-ibm-cognos)
+14.  [Data Analysis Code](data-analysis-code)
    
 ## Project Introduction
 
@@ -79,7 +79,7 @@ Clone the GitHub repository:
 git clone https://github.com/SHERLIN-BRITTO/ProductSalesAnalysis-Project 
 cd ProductSalesAnalysis-Project
 ## Machine Learning Code
-Access the Jupyter Notebook file, "DAC_Phase3_Code.ipynb," in the folder for data preprocessing and initial analysis.
+Access the Jupyter Notebook file, "DAC_Phase2_Code.ipynb," in the folder for data preprocessing and initial analysis.
 
 Execute the cells in the Jupyter Notebook to replicate the analysis.
 
@@ -102,6 +102,12 @@ To replicate the analysis and generate visualizations using IBM Cognos:
 4.Follow the visualizations and insights provided in the project to analyze your data.
 
 5.Example outputs and further details can be found in the GitHub repository and the earlier phases of the project documentation.It is included in this document also
+
+## Data Analysis Code:
+Access the Jupyter Notebook file, "DAC_Phase5_Code.ipynb," in the folder for data preprocessing and initial analysis.
+
+Execute the cells in the Jupyter Notebook to replicate the analysis
+
 
 
 
