@@ -32,34 +32,41 @@ You can install the required Python libraries using pip by running the following
 
 pip install -r requirements.txt
 ## Project Structure
-
 project-root/
     ├── data/
     │   ├── statsfinal.csv
     ├── notebooks/
     │   ├── DAC_Phase3_Code.ipynb
-    │   ├── DAC_Phase2_Code.ipynb
-    │   ├── DAC_Phase5_Code.ipynb
+    │   ├── Other notebooks (if any)
     ├── results/
     │   ├── Preprocessed_Data.csv
-    │   ├── ProductSalesAnalysisDashboard.pdf
+    │   ├── Other result files (if any)
     ├── README.md
     ├── requirements.txt
+
+
+
+
 
 ## How to Run the Code
 Follow these steps to run the code:
 Clone the GitHub repository:
 
-# git clone https://github.com/SHERLIN-BRITTO/ProductSalesAnalysis-Project 
+git clone https://github.com/SHERLIN-BRITTO/ProductSalesAnalysis-Project 
 cd ProductSalesAnalysis-Project
+## Machine Learning Code
+Access the Jupyter Notebook file, "DAC_Phase2_Code.ipynb," in the folder for data preprocessing and initial analysis.
 
-#Data Preprocessing:
+Execute the cells in the Jupyter Notebook to replicate the analysis.
+
+
+## Data Preprocessing:
 
 Access the Jupyter Notebook file, "DAC_Phase3_Code.ipynb," in the folder for data preprocessing and initial analysis.
 
 Execute the cells in the Jupyter Notebook to replicate the analysis.
 
-Data Visualization using IBM Cognos:
+## Data Visualization using IBM Cognos:
 To replicate the analysis and generate visualizations using IBM Cognos:
 
 •	Obtain access to IBM Cognos Analytics.
